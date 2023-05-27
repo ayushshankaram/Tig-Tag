@@ -1,0 +1,15 @@
+{
+  "name": "tig-tag",
+  "version": "1.0.0",
+  "description": "A Slack Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.13.1",
+    "dotenv": "^16.0.3"
+  }
+}
