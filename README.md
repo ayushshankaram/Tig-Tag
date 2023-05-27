@@ -1,4 +1,4 @@
-# Tig-Tag
+# Tik-Tag
 A Bot to Tag different groups in channels of Slack Workspace !
 
 
