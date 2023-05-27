@@ -100,7 +100,8 @@ app.message('@1y', async ({ message, say }) => {
 
 (async () => {
     console.log("Working")
-    await app.start(3000)
+    // await app.start(3000)
+    await app.start(process.env.PORT || 3000);
 
 })();
 
